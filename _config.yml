@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Journey of Learning to Code
 header-img: img/home-bg.png
 email: brandonchin@me.com
 copyright_name: bchinherein
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My personal experiences of the ups and downs of my career switch
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bchinherein
