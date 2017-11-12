@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I chose Web Development"
-date:       2017-11-12 02:36:03 +0000
+title:      "Why I Chose Web Development"
+date:       2017-11-11 21:36:04 -0500
 permalink:  why_i_chose_web_development
 ---
 
